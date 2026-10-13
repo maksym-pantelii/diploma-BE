@@ -2,7 +2,7 @@
 
 REST API for **Coachly**, a platform that connects clients with personal trainers: trainer search, schedule management, session booking with online payment, reviews, achievements and an admin panel for trainer verification.
 
-Built as a diploma project.
+Built as a diploma project. Frontend: [diploma-FE](https://github.com/maksym-pantelii/diploma-FE).
 
 ## Tech stack
 
